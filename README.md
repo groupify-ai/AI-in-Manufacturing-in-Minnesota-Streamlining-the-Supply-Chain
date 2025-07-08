@@ -1,4 +1,4 @@
-# AI in Manufacturing in Minnesota Streamlining the Supply Chain
+# How AI Is Transforming Supply Chains in Minnesota’s Manufacturing Sector
 ![AI in Manufacturing in Minnesota Streamlining the Supply Chain](https://admin.groupify.ai/assets/e3665e6e-d75d-4a3a-a8b9-4ddaa95a39f8)
 
 Minnesota is changing its supply chains with the use of Artificial Intelligence (AI), which is a new technology that is changing the way things are made.  [AI and ML](https://groupify.ai/ai-and-machine-learning) are changing how businesses work by improving logistics and predicting demand. This makes businesses more efficient, resilient, and competitive in a global market.  This blog looks at how Minnesota's manufacturers are using AI to make their supply chains work better, cut down on problems, and work together more effectively.
