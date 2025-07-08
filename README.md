@@ -1,1 +1,1 @@
-# AI-in-Manufacturing-in-Minnesota-Streamlining-the-Supply-Chain
+# AI in Manufacturing in Minnesota Streamlining the Supply Chain
